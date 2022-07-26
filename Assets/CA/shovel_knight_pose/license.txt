@@ -1,0 +1,11 @@
+Model Information:
+* title:	Shovel knight pose
+* source:	https://sketchfab.com/3d-models/shovel-knight-pose-33883b691d084b958ac7df4f774ca469
+* author:	Thawatchai.Chunhachai (https://sketchfab.com/Thawatchai.Chunhachai)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Shovel knight pose" (https://sketchfab.com/3d-models/shovel-knight-pose-33883b691d084b958ac7df4f774ca469) by Thawatchai.Chunhachai (https://sketchfab.com/Thawatchai.Chunhachai) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
